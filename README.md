@@ -22,6 +22,7 @@ En este taller aprenderemos a
 
 ### Opción Raspberry Pi
 * [Raspberry Pi 3 Modelo B+](http://amzn.eu/d/hSUtoiC)
+* [Tarjeta de memoria microSD 32GB](http://amzn.eu/d/4y01r0h)
 ![](https://www.dexterindustries.com/wp-content/uploads/2015/07/Raspberry-Pi-B-topview-800x800-1.jpg)
 
 ```
