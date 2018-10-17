@@ -18,11 +18,11 @@ En este taller aprenderemos a
 
 ### Opción Arduino
 [ARDUINO UNO REV3](https://tienda.bricogeek.com/arduino/305-arduino-uno-805833349009.html) 
-![Arduino UNO](https://static.generation-robots.com/3579-large_default/arduino-uno-rev-3.jpg)
+![](https://static.generation-robots.com/3579-large_default/arduino-uno-rev-3.jpg)
 
 ### Opción Raspberry Pi
 [Raspberry Pi 3 Modelo B+](http://amzn.eu/d/hSUtoiC)
-![Raspberry Pi 3](https://www.dexterindustries.com/wp-content/uploads/2015/07/Raspberry-Pi-B-topview-800x800-1.jpg)
+![](https://www.dexterindustries.com/wp-content/uploads/2015/07/Raspberry-Pi-B-topview-800x800-1.jpg)
 
 ```
 CONSEJO
