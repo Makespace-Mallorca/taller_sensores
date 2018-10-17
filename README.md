@@ -17,13 +17,13 @@ En este taller aprenderemos a
 * [Sensor de temperatura y humedad relativa DHT11](http://amzn.eu/d/7D5bS1u)
 
 ### Opción Arduino
-* [ARDUINO UNO REV3](https://tienda.bricogeek.com/arduino/305-arduino-uno-805833349009.html) 
 ![](https://static.generation-robots.com/3579-large_default/arduino-uno-rev-3.jpg)
+* [ARDUINO UNO REV3](https://tienda.bricogeek.com/arduino/305-arduino-uno-805833349009.html) 
 
 ### Opción Raspberry Pi
+![](https://www.dexterindustries.com/wp-content/uploads/2015/07/Raspberry-Pi-B-topview-800x800-1.jpg)
 * [Raspberry Pi 3 Modelo B+](http://amzn.eu/d/hSUtoiC)
 * [Tarjeta de memoria microSD 32GB](http://amzn.eu/d/4y01r0h)
-![](https://www.dexterindustries.com/wp-content/uploads/2015/07/Raspberry-Pi-B-topview-800x800-1.jpg)
 
 ```
 CONSEJO
