@@ -1,5 +1,5 @@
 # Taller inicial de sensores para Arduino y Raspberry Pi (Sábado 3 noviembre 2018)
-En este taller aprenderemos a 
+En este taller aprendererás a 
 1. Conocer los diferentes tipos de sensores: digitales, analógicos y sus características: rango, precisión, _offset_, sensibilidad, correlación lineal...
 2. Conectividad en las placas de Arduino Uno y Raspberry Pi 3 de:
   * Un LED
