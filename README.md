@@ -4,6 +4,7 @@ En este taller aprenderemos a
 2. Conectividad en las placas de Arduino Uno y Raspberry Pi 3 de:
   * Un LED
   * Un microinterruptor
+  * Potenciometros
   * Un sensor de temperatura y humerdad
 3. Configuración del _framework_ de Arduino y Raspbian. Librerias y conectividad placa-ordenador.
 4. Programación para la activación del LED y lectura e interpretación de la señal de los sensores.
@@ -11,6 +12,8 @@ En este taller aprenderemos a
 ## Lista de material:
 
 * [Diodo LED monocromo (2 patillas)](https://images.wisegeek.com/colorful-diodes.jpg)
+* [Resistencia de 10K Ohm](https://media.digikey.com/Renders/Yageo%20Renders/CFN-25JR-52-10K_tmb.jpg)
+* [Potenciometro de 10k Ohm](http://www.a1radio.co.za/image/cache/catalog/products/13-0082-128x128_0.jpg)
 * [Micro-interruptor](https://thumbs1.ebaystatic.com/d/l225/m/misl11te__08jZF6N6CokKQ.jpg)
 * [Cables DuPont](http://amzn.eu/d/bJT17XU)
 * [Protoboard](http://amzn.eu/d/4XOy7Md)
