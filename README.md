@@ -1,4 +1,4 @@
-# Taller inicial de sensores para Arduino y Raspberry Pi (Sábado 3 noviembre 2018)
+# Taller inicial de sensores para Arduino y Raspberry Pi (Sábado 1 diciembre 2018)
 En este taller aprenderás a 
 1. Conocer los diferentes tipos de sensores: digitales, analógicos y sus características: rango, precisión, _offset_, sensibilidad, correlación lineal...
 2. Conectividad en las placas de Arduino Uno y Raspberry Pi 3 de:
@@ -15,9 +15,10 @@ En este taller aprenderás a
 * [Resistencia de 10K Ohm](https://media.digikey.com/Renders/Yageo%20Renders/CFN-25JR-52-10K_tmb.jpg)
 * [Potenciometro de 10k Ohm](http://www.a1radio.co.za/image/cache/catalog/products/13-0082-128x128_0.jpg)
 * [Micro-interruptor](https://thumbs1.ebaystatic.com/d/l225/m/misl11te__08jZF6N6CokKQ.jpg)
-* [Cables DuPont](http://amzn.eu/d/bJT17XU)
-* [Protoboard](http://amzn.eu/d/4XOy7Md)
 * [Sensor de temperatura y humedad relativa DHT11](http://amzn.eu/d/7D5bS1u)
+### Facilitado por el FabLab
+* [Cables DuPont](http://amzn.eu/d/bJT17XU) 
+* [Protoboard](http://amzn.eu/d/4XOy7Md)
 
 ### Opción Arduino
 ![](https://static.generation-robots.com/3579-large_default/arduino-uno-rev-3.jpg)
