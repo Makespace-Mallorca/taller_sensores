@@ -1,7 +1,9 @@
 # Tareas
 En este taller hemos hecho:
 
-## 1. Configurar el sistema operativo Raspbian
+## 1. RPI pinout
+
+## 2. Configurar el sistema operativo Raspbian
 
 ## Arrancar el servidor Node-red
 Siguiendo instrcciones de https://nodered.org/docs/hardware/raspberrypi:
