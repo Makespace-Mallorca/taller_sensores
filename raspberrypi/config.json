@@ -1,0 +1,7 @@
+{
+"domohome_livingroom_humidity":{
+	"write_api_key": "OAG8N5LHNAGZ4D6R",
+	"gpio_pin": "4",
+	"max_warning": 70
+	}
+}
