@@ -1,6 +1,6 @@
 	
 import sys
-import urllib.request
+import urllib2
 from time import sleep
 import Adafruit_DHT as dht
 import logging
@@ -26,7 +26,7 @@ while True:
                 with open(DEFAULT_CONFIG_PATH, 'r') as config_file:
                 	config = json.load(config_file)
 
-                	# URL where we will send the data,
+			# URL where we will send the data,
                 	baseURL = 'https://api.thingspeak.com/update?api_key=%s' % config['domohome_livingroom_humidity']['write_api_key']
 
                 	def DHT22_data():
@@ -44,14 +44,11 @@ while True:
                         	print (humi)
                         	print (temp)
 
-
                         	# Sending the data to thingspeak
-                        	request = urllib.request.Request(baseURL + '&field1=%s&field2=%s' % (temp, humi))
-                        	response = urllib.request.urlopen(request)
-                        	print (response.read().decode('utf-8'))
-                		# Closing the connection
+                        	conn = urllib2.urlopen(baseURL + '&field1=%s&field2=%s' % (temp, humi))
+                        	print conn.read()
+                        	# Closing the connection
                         	conn.close()
-
                 	else:
                         	print ("Sensor reading error")
 
